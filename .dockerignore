@@ -1,3 +1,7 @@
 README.md
 Dockerfile
 .npmrc
+node_modules
+.git
+.env
+*.log
